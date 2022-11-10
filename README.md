@@ -1,4 +1,5 @@
 # Twenty Twenty-Three Child
+<p>A child theme is a sub-theme that inherits the look, feel, and functions of the parent theme. When you make modifications to the child theme, they are kept separate from the parent theme's files.</p>
 <h3>A Child theme for Twenty Twenty-Three WordPress Theme</h3>
 <p>With this child theme you can add basic or advance <b>Custom Post Types</b> as the required code for them is written in relative file <b>functions.php</b>, also you can add those as many as you want by copying & pasting the code multiple times & change the name & attributes according to your <b>Custom Post Type</b> liking.</p>
 <h4>Make This Child Theme Yours</h4>
