@@ -17,4 +17,4 @@
   <li>Currently in development.</li>
 </ul>
 <h4>Update 1.0.1</h4>
-<p><b>1.0.1 Update</b>, added the both <b>Custom Post Type Page Layouts</b> in current build (<b>FSE</b> Standard), next I'm going to import Global Styles (<b>Browse Styles</b>) from parent theme.</p>
+<p>Added the both <b>Custom Post Type Page Layouts</b> in current build (<b>FSE</b> Standard), next I'm going to import Global Styles (<b>Browse Styles</b>) from the parent theme.</p>
