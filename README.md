@@ -11,5 +11,10 @@
   <li>Activate it & have fun with it.</li>
 </ul>
 
-<h3>NOTE</h3>
-<p>Make sure to after you activate the child theme go to settings -> permalinks go at the bottom & hit save changes, your <b>Custom Post Types</b> will be shown. otherwise you'll see <b>404 Error</b>, also you just only need to do it once.</p>
+<h3>NOTES</h3>
+<ul>
+  <li>Make sure to after you activate the child theme go to settings -> permalinks go at the bottom & hit save changes, your <b>Custom Post Types</b> will be shown. otherwise you'll see <b>404 Error</b>, also you just only need to do it once.</li>
+  <li>Currently in development.</li>
+</ul>
+<h4>Update 1.0.1</h4>
+<p><b>1.0.1 Update</b>, added the both <b>Custom Post Type Page Layouts</b> in current build (<b>FSE</b> Standard), next I'm going to import Global Styles (<b>Browse Styles</b>) from parent theme.</p>
